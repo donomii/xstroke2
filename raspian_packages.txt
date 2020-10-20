@@ -1,0 +1,3 @@
+Install the following packages to compile:
+
+libxft-dev libxpm-dev libshape-dev libxpm-dev libxcb-shape0-dev libxext-dev libxtest-dev libxtst-dev
